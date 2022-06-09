@@ -1,6 +1,6 @@
 Here is our implementation of backpropagation algorithm. First, we initialize the weights for the network. Next, forward propogation is performed using the initialized weights and then the weights are updated using backpropagation. Prediction is done using the finalized weights.
 
-Parameters:
+**Parameters**:
 
 Activation Function - Sigmoid
 Learning Rate - 0.15
